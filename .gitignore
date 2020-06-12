@@ -1,6 +1,9 @@
 # config file with bot secret
 config.json
 
+# npm package file
+package.json
+
 # Logs
 logs
 *.log

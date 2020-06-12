@@ -1,0 +1,11 @@
+{
+  "name": "msd",
+  "version": "1.0.0",
+  "description": "discord bot for the mobile speedrunning discord",
+  "main": "bot.js",
+  "author": "Skycloud",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Skycloudd/msd.git"
+  }
+}

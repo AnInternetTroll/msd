@@ -39,7 +39,7 @@ function UpdateActivity(){
 }
 
 function processCommand(msg){
-    let fullCommand = msg.content.substr(1);
+    let fullCommand = msg.content.substr(prefix.length);
     let splitCommand = fullCommand.split(",");
     let primaryCommand = splitCommand[0];
     let arguments = splitCommand.slice(1);
